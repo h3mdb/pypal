@@ -24,6 +24,7 @@ with open("README.md", "r") as fh:
             'pandas==0.24.2',
             'tqdm==4.32.2',
             'vega-datasets==0.7.0',
+            'cython==0.29.14',
             ],
         classifiers=[
             "Programming Language :: Python :: 3",
