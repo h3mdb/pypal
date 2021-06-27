@@ -13,7 +13,7 @@ with open("README.md", "r") as fh:
         description='Python port of Pipal for password analytics',
         long_description=long_description,
         long_description_content_type="text/markdown",
-        url="https://github.com/f0cker/pypal",
+        url="https://github.com/h3mdb/pypal",
         #package_data={'pypal': ['lists/']},
         #include_package_data=True,
         install_requires=[
