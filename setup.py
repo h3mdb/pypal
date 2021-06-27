@@ -21,7 +21,7 @@ with open("README.md", "r") as fh:
             'matplotlib==3.4.2',
             'fuzzyset==0.0.19',
             'nltk==3.4.5',
-            'pandas==0.24.2',
+            'pandas==1.2.5',
             'tqdm==4.32.2',
             'vega-datasets==0.7.0',
             'cython==0.29.14',
