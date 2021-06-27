@@ -18,7 +18,7 @@ with open("README.md", "r") as fh:
         #include_package_data=True,
         install_requires=[
             'altair==3.1.0',
-            'matplotlib==3.1.0',
+            'matplotlib==3.4.2',
             'fuzzyset==0.0.19',
             'nltk==3.4.5',
             'pandas==0.24.2',
